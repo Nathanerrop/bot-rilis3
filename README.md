@@ -18,5 +18,5 @@ Dan module harus lengkap biar bisa run otomatis
 ```
 ## DEPLOY 
 ```
-([DEPLOY](!)[https://replit.com/join/pbyuxbcjwf-nathanerrop])
+[!(DEPLOY)(https://replit.com/join/pbyuxbcjwf-nathanerrop)]
 ```
